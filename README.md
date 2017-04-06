@@ -2,6 +2,8 @@
 
 It`s a landing page for the contest of the Python programmers. Work is still in progress. Only a static HTML page is available now.
 
+The repository contains the result of merging the two development branches with the resolution of conflicting changes.
+
 # How to launch
 
 ```bash
